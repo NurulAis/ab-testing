@@ -18,10 +18,9 @@ The objective of this analysis is to determine whether the new page leads to a s
 The company introduced a new landing page with the expectation that it would increase user conversions.
 
 Before deploying the new page to all users, an A/B test was conducted to answer the following question:
-
-> Should the new website version be implemented for all users?
-> Should the company retain the existing website version?
-> Should the experiment continue to collect more data if the current results are not statistically strong enough to support a confident decision?
+1. Should the new website version be implemented for all users?
+2. Should the company retain the existing website version?
+3. Should the experiment continue to collect more data if the current results are not statistically strong enough to support a confident decision?
 
 
 ---
@@ -163,15 +162,4 @@ Based on the current results:
 
 At this stage, retaining the existing landing page while continuing the experiment would be the most appropriate data-driven approach.
 
----
 
-## Tools and Libraries
-
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Statsmodels
-* SciPy
-* Jupyter Notebook
