@@ -1,5 +1,7 @@
 # A/B Testing Analysis: Evaluating a New Website Landing Page
+For a detailed explanation of the business problem, methodology, findings, and recommendations, please visit the project documentation:
 
+🔗 [View Full Case Study](https://viridian-mulberry-00a.notion.site/A-B-Testing-Analysis-3a033087556280559091c23978548beb)
 ## Project Overview
 
 This project analyzes the results of an A/B test conducted to determine whether a new landing page can improve user conversion rates compared to the existing page.
